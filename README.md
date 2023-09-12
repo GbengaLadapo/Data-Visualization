@@ -8,7 +8,7 @@ Welcome to the Data Visualization Repository! In this repository, you will find 
 
 - **Description:** This visualization provides insights from Google Search Console data, including impressions, landing page statistics, clicks, URL clicks, and more.
 - **Visualization Tool:** Looker
-- **Link:** [Link Text]([URL](https://lookerstudio.google.com/reporting/d94d866f-fa7d-466f-a619-785cf7ffa0db))
+- **Link:** [link](https://lookerstudio.google.com/reporting/d94d866f-fa7d-466f-a619-785cf7ffa0db)
 - **Usage:** To view this visualization, simply click on the `looker_search_console_report.png` file.
 
 ### 2. [Search console report]
