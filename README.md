@@ -31,10 +31,7 @@ To explore these visualizations, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-2. Navigate to the desired visualization directory.
-
-
-3. Open the visualization file using your preferred software or tool.
+2. Open the visualization link 
 
 ## Contributing
 
