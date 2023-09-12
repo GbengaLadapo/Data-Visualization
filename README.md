@@ -15,7 +15,7 @@ Welcome to the Data Visualization Repository! In this repository, you will find 
 
 - **Description:** This analytics provides insights into Google's Analytics acquisitions
 - **Visualization Tool:** Looker
-- **Visualization:** [Second Looker Report](https://lookerstudio.google.com/reporting/5124798c-e474-4257-84e2-ed833f85ab90)
+- **Visualization:** [Second Looker Report](https://lookerstudio.google.com/u/0/reporting/5124798c-e474-4257-84e2-ed833f85ab90/page/nXDGB)
 - **Usage:** To view this visualization, simply click on the link above.
 
 ### 3. [Add more visualizations as needed]
