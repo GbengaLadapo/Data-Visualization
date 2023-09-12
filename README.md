@@ -9,14 +9,14 @@ Welcome to the Data Visualization Repository! In this repository, you will find 
 - **Description:** This visualization provides insights from Google Search Console data, including impressions, landing page statistics, clicks, URL clicks, and more.
 - **Visualization Tool:** Looker
 - **Visualization:** [Looker Search Console Report](https://lookerstudio.google.com/reporting/d94d866f-fa7d-466f-a619-785cf7ffa0db)
-- **Usage:** To view this visualization, simply click on the `looker_search_console_report.png` file.
+- **Usage:** To view this visualization, simply click on the link above.
 
-### 2. [Search console report]
+### 2. Analytics Acquisitions Overview
 
-- **Description:** [Brief description of the visualization]
-- **Visualization Tool:** [Name of the tool or library used]
-- **File:** [File name or link to the visualization file]
-- **Usage:** [Instructions on how to view or interact with the visualization, if applicable]
+- **Description:** This analytics provides insights into Google's Analytics acquisitions
+- **Visualization Tool:** Looker
+- **Visualization:** [Analytics Acquisitions Overview](https://lookerstudio.google.com/reporting/5124798c-e474-4257-84e2-ed833f85ab90)
+- **Usage:** To view this visualization, simply click on the link above.
 
 ### 3. [Add more visualizations as needed]
 
