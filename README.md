@@ -11,7 +11,7 @@ Welcome to the Data Visualization Repository! In this repository, you will find 
 - **File:** `looker_search_console_report.png`
 - **Usage:** To view this visualization, simply click on the `looker_search_console_report.png` file.
 
-### 2. [Visualization Title]
+### 2. [Search console report]
 
 - **Description:** [Brief description of the visualization]
 - **Visualization Tool:** [Name of the tool or library used]
@@ -33,10 +33,10 @@ To explore these visualizations, follow these steps:
 
 ## Contributing
 
-If you have additional data visualizations that you would like to contribute to this repository, feel free to submit a pull request. Please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+If you have additional data visualizations that you would like to contribute to this repository, feel free to submit a pull request. 
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the MIT License. 
 
 Happy visualizing!
